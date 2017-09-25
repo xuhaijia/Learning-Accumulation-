@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\res\\merged\\release\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "F:\\Learn\\LearningAccumulation\\permission\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endColumn": 48,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 114,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "F:\\Learn\\LearningAccumulation\\permission\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 826,
+                        "endColumn": 114,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 99,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "F:\\Learn\\LearningAccumulation\\permission\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1064,
+                        "endColumn": 99,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 48,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "F:\\Learn\\LearningAccumulation\\permission\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 48,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endColumn": 50,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "F:\\Learn\\LearningAccumulation\\permission\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 50,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 69,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "F:\\Learn\\LearningAccumulation\\permission\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 69,
+                        "endOffset": 821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 72,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "F:\\Learn\\LearningAccumulation\\permission\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 72,
+                        "endOffset": 1059
+                    }
+                }
+            }
+        ]
+    }
+]

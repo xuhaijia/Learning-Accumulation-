@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndPermission-master\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "E:\\sdk\\.android\\build-cache\\5f6c3e330c7a4dee15dfd9c65d5a8af83c611a9e\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndPermission-master\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "E:\\sdk\\.android\\build-cache\\5f6c3e330c7a4dee15dfd9c65d5a8af83c611a9e\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndPermission-master\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "E:\\sdk\\.android\\build-cache\\5f6c3e330c7a4dee15dfd9c65d5a8af83c611a9e\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndPermission-master\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "E:\\sdk\\.android\\build-cache\\5f6c3e330c7a4dee15dfd9c65d5a8af83c611a9e\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndPermission-master\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "E:\\sdk\\.android\\build-cache\\5f6c3e330c7a4dee15dfd9c65d5a8af83c611a9e\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndPermission-master\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "E:\\sdk\\.android\\build-cache\\5f6c3e330c7a4dee15dfd9c65d5a8af83c611a9e\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v11\\notification_media_action.xml"
+    }
+]

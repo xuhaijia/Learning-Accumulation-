@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndPermission-master\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\sdk\\.android\\build-cache\\5f6c3e330c7a4dee15dfd9c65d5a8af83c611a9e\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndPermission-master\\permission\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\sdk\\.android\\build-cache\\5f6c3e330c7a4dee15dfd9c65d5a8af83c611a9e\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

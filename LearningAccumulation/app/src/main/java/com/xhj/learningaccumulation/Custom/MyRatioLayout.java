@@ -22,7 +22,7 @@ public class MyRatioLayout extends RelativeLayout {
         super(context, attrs);
         TypedArray typedArray = context.obtainStyledAttributes(attrs, R.styleable.MyRatioLayout);
         //根据属性名称获取对应的值，属性名称的格式为类名_属性名
-        ratio = typedArray.getFloat(R.styleable.MyRatioLayout_ratio, 0.0f);
+        ratio = typedArray.getFloat(R.styleable.MyRatioLayout_ratio_rl, 0.0f);
 
     }
 

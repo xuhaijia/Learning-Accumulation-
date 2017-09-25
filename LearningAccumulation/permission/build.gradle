@@ -1,0 +1,21 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+    }
+
+    resourcePrefix 'permission_'
+}
+
+dependencies {
+
+    compile 'com.yanzhenjie.alertdialog:alertdialog:1.0.1'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+}
+
+//apply from: "https://github.com/yanzhenjie/bintray/blob/master/maven-auto.gradle?raw=true"

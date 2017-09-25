@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndPermission-master\\permission\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "E:\\sdk\\.android\\build-cache\\5f6c3e330c7a4dee15dfd9c65d5a8af83c611a9e\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "F:\\Learn\\LearningAccumulation\\permission\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]
