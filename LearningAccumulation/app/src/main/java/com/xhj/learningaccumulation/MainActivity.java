@@ -4,7 +4,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-public class MainActivity extends BaseActivity {
+import com.yanzhenjie.permission.Permission;
+
+public class MainActivity extends BaseActivity  {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +28,18 @@ public class MainActivity extends BaseActivity {
 
     @Override
     protected void initData() {
+        PermissionRequest permissionRequest = new PermissionRequest(this, new PermissionRequest.PermissionCallback() {
+            @Override
+            public void onSuccessful() {
+
+            }
+
+            @Override
+            public void onFailure() {
+
+            }
+        });
+        permissionRequest.request(Permission.STORAGE , Permission.CALENDAR);
 
     }
 }

@@ -18,15 +18,13 @@ package com.xhj.learningaccumulation;
 import android.content.Context;
 
 import com.yanzhenjie.permission.AndPermission;
-import com.yanzhenjie.permission.Permission;
 import com.yanzhenjie.permission.PermissionNo;
 import com.yanzhenjie.permission.PermissionYes;
 
 import java.util.List;
 
 /**
- * <p>这就是随便封装了下，我希望起到抛砖引玉的作用，发挥你的强大脑力吧。</p>
- * Created by Yan Zhenjie on 2017/5/1.
+ * 简单封装
  */
 public class PermissionRequest {
 
@@ -38,10 +36,11 @@ public class PermissionRequest {
         this.mCallback = callback;
     }
 
-    public void request() {
+    // 可变参数请求
+    public void request(String[]... permissionsArray) {
         AndPermission.with(mContext)
                 .requestCode(110)
-                .permission(Permission.PHONE, Permission.LOCATION)
+                .permission(permissionsArray)
                 .callback(this)
                 .start();
     }
